@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Leomil Arvi P. Relorcasa. I'm currently an IT graduating student from Bicol University.
-🔭 I'm presently working on my coding, development and engineering skills.
-
+🔭 I'm presently working on my coding, development and engineering skills. <br>
 🌱 I'm currently learning computer science (eventhough I'm an IT student because I took some interest in software engineering and development) and languages like python and JavaScript.
 👯 I’m looking to collaborate on any project that can enhance my skills in the things mentioned above.
 
